@@ -2,7 +2,6 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ADVAYA1/Pothole-Detection)
 
-**Live Repository:** [https://github.com/ADVAYA1/Pothole-Detection](https://github.com/ADVAYA1/Pothole-Detection)
 
 ## Project Overview 📖
 
